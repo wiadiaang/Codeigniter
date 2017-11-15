@@ -1,5 +1,7 @@
-Cara menggunakan :
-<ol>
-<li>Setelah selesai download, ekstrak ke folder web server kalian. contoh : htdocs atau /var/www/html</li>
-<li>edit file controller rajaongkir.php, dan rubah API KEY dengan punya kalian</li>
-</ol>
+Integrasi Codeigniter dan raja ongkir 
+
+petunjuk instalasi:
+
+1.	Setelah selesai download, ekstrak ke folder web server kalian. contoh : htdocs atau /var/www/html
+2.	edit file controller rajaongkir.php, dan ubah API KEY sesuai dengan punya kalian.
+
